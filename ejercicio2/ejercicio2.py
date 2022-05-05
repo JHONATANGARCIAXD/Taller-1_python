@@ -6,7 +6,7 @@
 
 # input
 
-from tokenize import Intnumber
+
 
 
 ingresos=int(input("Digite sus ingresos:"))
