@@ -23,7 +23,7 @@ if ingresos>=945200:
     SN=deudas
    
 if SN==(1):
-    print("No puede hacer el prestamo ya que tiene deudas puede hacer el presamo ya que no tiene deudas y sus ingresos son mayores a $945200")
+    print("No puede hacer el prestamo ya que tiene deudas ")
 else:
      SN==(2)
      print("Puede hacer el presamo ya que no tiene deudas y sus ingresos son mayores a $945200")
